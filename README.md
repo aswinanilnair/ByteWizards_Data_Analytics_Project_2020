@@ -43,8 +43,9 @@ each candidate in this pandemic situation
 ## Jaccard Coefficient
 A Jaccard Coefficient function was created to
 calculate the similarity, and based on the user input skills on
-what job will be the best for the particular user. Jaccard
-Coefficient was used as the requirement of the company was
+what job will be the best for the particular user. 
+
+Jaccard Coefficient was used as the requirement of the company was
 based on the provided skills, and not on all possible skills.
 Thereby the Jaccard Coefficient was taken, rather than
 Cosine Similarity for our dataset.
@@ -61,6 +62,6 @@ pickle.close()
 df.head()
 ```
 ## Team Members:
-Afzal Mukhtar PES2201800675 
-Aswin A Nair PES2201800504 
-Hritika Rahul Mehta PES201800024
+-Afzal Mukhtar PES2201800675 
+-Aswin A Nair PES2201800504 
+-Hritika Rahul Mehta PES201800024
