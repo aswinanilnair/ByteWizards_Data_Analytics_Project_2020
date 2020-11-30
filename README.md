@@ -62,6 +62,6 @@ pickle.close()
 df.head()
 ```
 ## Team Members:
--Afzal Mukhtar PES2201800675 
--Aswin A Nair PES2201800504 
--Hritika Rahul Mehta PES201800024
+- <b>Name:</b> Afzal Mukhtar<br><b>SRN:</b> PES2201800675 
+- <b>Name:</b> Aswin A Nair<br><b>SRN:</b> PES2201800504 
+- <b>Name:</b> Hritika Rahul Mehta<br><b>SRN:</b> PES201800024
