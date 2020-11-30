@@ -60,3 +60,7 @@ pickle.close()
 
 df.head()
 ```
+## Team Members:
+Afzal Mukhtar PES2201800675 
+Aswin A Nair PES2201800504 
+Hritika Rahul Mehta PES201800024
