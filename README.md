@@ -1,5 +1,5 @@
-# ByteWizards_Data_Analytics_Project_2020
-Semester-5 project for Data Analytics(UE18CS312)
+# ByteWizards Data Analytics Project 2020
+#### Semester-5 project for Data Analytics(UE18CS312)
 
 ## Introduction
 One of the most important things in a job search is
@@ -61,6 +61,7 @@ pickle.close()
 
 df.head()
 ```
+
 ## Team Members:
 - <b>Name:</b> Afzal Mukhtar<br><b>SRN:</b> PES2201800675 
 - <b>Name:</b> Aswin A Nair<br><b>SRN:</b> PES2201800504 
